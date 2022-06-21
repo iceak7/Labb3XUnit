@@ -1,7 +1,7 @@
 # Labb3XUnit
 
 ## Test 1
--	Start programmet
+-	Starta programmet
 -	Du ska se en meny med vad som kan göras.
 -	Skriv in ”1” för att räkna med addition och tryck sedan enter.
 -	Skriv in 5 och tryck enter.
@@ -17,7 +17,7 @@
 -	Du ska nu se resultatet för båda uträkningarna igen.
 
 ## Test 2
--	Start programmet
+-	Starta programmet
 -	Du ska se en meny med vad som kan göras.
 -	Skriv in ”3” för att räkna med division och tryck sedan enter.
 -	Skriv in 6 och tryck enter.
@@ -28,7 +28,7 @@
 
 
 ## Test 3
--	Start programmet
+-	Starta programmet
 -	Du ska se en meny med vad som kan göras.
 -	Test att skriva ”10” och tryck enter.
 -	Du ska nu se ”Testa igen.” och menyn igen.
