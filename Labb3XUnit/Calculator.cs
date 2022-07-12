@@ -9,6 +9,10 @@ namespace Labb3XUnit
 
         public double Division(double nr1, double nr2)
         {
+            if (nr2 == 0)
+            {
+                return 0;
+            }
             return nr1 / nr2;
         }
 
